@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simhadri_Surada</h1>
+<h1 align="center">Hi 👋, I'm SimhadriSurada</h1>
 <h3 align="center">A passionate competitive programmer from India</h3>
 
 - 🔭 I’m currently working on [Games](https://github.com/simhadrisurada/project)
