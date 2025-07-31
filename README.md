@@ -2,6 +2,11 @@
 <h3 align="center">A passionate competitive programmer from India 🇮🇳</h3>
 
 > *"Learning through logic. Solving through code."*
+---
+
+### 📄 My Resume  
+📌 [Click to view my resume](https://drive.google.com/file/d/1p2da5qgA07mZBCWUwND_Rwwl8_zUG2aj/view?usp=sharing)
+
 
 ---
 
