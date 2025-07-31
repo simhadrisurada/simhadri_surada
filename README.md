@@ -1,25 +1,76 @@
 <h1 align="center">Hi 👋, I'm SimhadriSurada</h1>
-<h3 align="center">A passionate competitive programmer from India</h3>
+<h3 align="center">A passionate competitive programmer from India 🇮🇳</h3>
 
-- 🔭 I’m currently working on [Games](https://github.com/simhadrisurada/project)
+> *"Learning through logic. Solving through code."*
 
-- 🌱 I’m currently learning **Tkinter**
+---
 
-- 👯 I’m looking to collaborate on **AI**
+### 🔭 Currently Working On:
+- A **Python-based grid survival game** built using Tkinter and Pygame
+- Personal projects and coding logs on GitHub
 
-- 🤝 I’m looking for help with **AI development**
+### 🌱 Currently Learning:
+- **Tkinter**, Python GUI development
+- Basics of **AI/ML**
+- Improving problem-solving via DSA & competitive coding
 
-- 👨‍💻 All of my projects are available at [https://github.com/simhadrisurada/project](https://github.com/simhadrisurada/project)
+### 👯 Looking to Collaborate On:
+- **AI & beginner-friendly ML projects**
+- Open-source contributions with real-world impact
 
-- 📫 How to reach me **narayanasurada1@gmail.com**
+### 🤝 Looking for Help With:
+- Getting hands-on with **AI development** and practical implementation
 
-<h3 align="left">Connect with me:</h3>
+---
+
+### 💼 Projects
+
+- 🎮 **Tkinter Survival Game**  
+  A 2-player game where players survive on a tile grid with random bombs and heals  
+  [GitHub Repository](https://github.com/simhadrisurada/project)
+
+- 🧠 **Competitive Programming Practice**  
+  Solving 100+ problems across platforms like LeetCode, CodeChef, and Codeforces
+
+---
+
+### 📫 Reach Me At
+
+- 📧 Email: **narayanasurada1@gmail.com**
+- 💼 LinkedIn: [Simhadri Surada](https://linkedin.com/in/simhadri%20surada)
+
+---
+
+### 🔗 Coding Profiles
+
 <p align="left">
-<a href="https://linkedin.com/in/simhadri surada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="simhadri surada" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/parrot_king" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="parrot_king" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/simhadri_student" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="simhadri_student" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/simhadri_surada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="simhadri_surada" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/parrot_king" target="_blank">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
+</a>
+<a href="https://codeforces.com/profile/simhadri_student" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
+</a>
+<a href="https://www.leetcode.com/simhadri_surada" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> </p>
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🧠 Fun Fact
+> I enjoy solving logical problems, experimenting with creative Python projects, and exploring new tech like AI — one bug at a time!
+
+
