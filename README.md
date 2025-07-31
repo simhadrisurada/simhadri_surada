@@ -37,7 +37,7 @@
 ### 📫 Reach Me At
 
 - 📧 Email: **narayanasurada1@gmail.com**
-- 💼 LinkedIn: [Simhadri Surada](https://linkedin.com/in/simhadri%20surada)
+- 💼 LinkedIn: [Simhadri Surada](https://www.linkedin.com/in/simhadri-surada-372ba8341/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BMkPejepqR7aw%2BBJAofcQFQ%3D%3D)
 
 ---
 
